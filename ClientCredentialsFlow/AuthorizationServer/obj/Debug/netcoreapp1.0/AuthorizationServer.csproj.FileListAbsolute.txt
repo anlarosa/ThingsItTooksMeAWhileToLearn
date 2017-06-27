@@ -1,0 +1,10 @@
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\bin\Debug\netcoreapp1.0\config.json
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\bin\Debug\netcoreapp1.0\AuthorizationServer.deps.json
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\bin\Debug\netcoreapp1.0\AuthorizationServer.runtimeconfig.json
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\bin\Debug\netcoreapp1.0\AuthorizationServer.runtimeconfig.dev.json
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\bin\Debug\netcoreapp1.0\AuthorizationServer.dll
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\bin\Debug\netcoreapp1.0\AuthorizationServer.pdb
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\obj\Debug\netcoreapp1.0\AuthorizationServer.csprojResolveAssemblyReference.cache
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\obj\Debug\netcoreapp1.0\AuthorizationServer.AssemblyInfo.cs
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\obj\Debug\netcoreapp1.0\AuthorizationServer.dll
+D:\Biblioteca\OpenIdConnect\openiddict-samples-master\openiddict-samples-master\samples\ClientCredentialsFlow\AuthorizationServer\obj\Debug\netcoreapp1.0\AuthorizationServer.pdb
